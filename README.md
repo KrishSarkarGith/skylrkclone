@@ -27,7 +27,12 @@ This is a Shopify-based storefront clone showcasing:
 
 ## Getting Started
 
-Simply open `index.html` in a browser to view the storefront.
+1. Open a terminal in the `skylrkclone` directory
+2. Run the server:
+   ```bash
+   python -m http.server 8000
+   ```
+3. Visit `http://localhost:8000` in your browser
 
 ## License
 
