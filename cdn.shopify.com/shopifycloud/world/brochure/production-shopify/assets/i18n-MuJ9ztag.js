@@ -1,0 +1,2 @@
+var e=`no_country`,t={notation:`compact`,compactDisplay:`short`,style:`decimal`,currency:`USD`,currencyDisplay:`narrowSymbol`},n={line:`value`,placeholder:`raw`},r=(e,r,i={...n,...t})=>{let{line:a,placeholder:o,...s}={...n,...t,...i};return e(`${r}.${a}`,{[o]:e(`${r}.${o}`),...s})},i=(e,t,n)=>r(e,t,{style:`currency`,...n});function a(e){switch(e.toLowerCase()){case`ja`:return`jp`;case`en-au`:return`au`;default:return/^[a-z]{2}$/.test(e)?e:e.replace(/-([a-z]{2})$/,(e,t)=>`-${t.toUpperCase()}`)}}export{r as i,i as n,a as r,e as t};
+//# sourceMappingURL=i18n-MuJ9ztag.js.map

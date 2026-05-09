@@ -1,0 +1,2 @@
+import{a as e}from"./chunk-0qwtQa0g.js";import{t}from"./react-1uJi8W1k.js";var n=e(t(),1),r=e=>{(0,n.useEffect)(()=>{let t=t=>{let n=document.querySelectorAll(`[data-click-outside='dismiss']`),r=!1;n.forEach(e=>{(e.contains(t.target)||e===t.target)&&(r=!0)}),r||e(t)};return document.addEventListener(`click`,t),()=>{document.removeEventListener(`click`,t)}},[e])};export{r as t};
+//# sourceMappingURL=useOnClickOutside-mh1Th1dx.js.map

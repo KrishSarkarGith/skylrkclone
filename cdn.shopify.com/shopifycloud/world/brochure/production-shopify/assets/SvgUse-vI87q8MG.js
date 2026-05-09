@@ -1,0 +1,2 @@
+import{t as e}from"./jsx-runtime-ChVxNLAL.js";import{t}from"./twMerge-D6qvIK6y.js";var n=e();function r({id:e,className:r}){return(0,n.jsx)(`svg`,{className:t(`pointer-events-none`,r),children:(0,n.jsx)(`use`,{href:`#${e}`})})}export{r as t};
+//# sourceMappingURL=SvgUse-vI87q8MG.js.map

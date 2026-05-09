@@ -1,0 +1,2 @@
+import{a as e}from"./chunk-0qwtQa0g.js";import{t}from"./react-1uJi8W1k.js";var n=e(t(),1),r=(e,t)=>{(0,n.useEffect)(()=>{let n=n=>{n.key===e&&t(n)};return document.addEventListener(`keydown`,n),()=>{document.removeEventListener(`keydown`,n)}},[e,t])};export{r as t};
+//# sourceMappingURL=useKeyPress-sqH5Wjix.js.map

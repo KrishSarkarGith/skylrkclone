@@ -1,0 +1,2 @@
+import{a as e}from"./chunk-0qwtQa0g.js";import{t}from"./react-1uJi8W1k.js";var n=e(t(),1),r=e=>{let[t,r]=(0,n.useState)(null);return(0,n.useEffect)(()=>{let t=window.matchMedia(e),n=()=>r(t.matches);return n(),t.addListener?t.addListener(n):t.addEventListener(`change`,n),()=>{t.removeListener?t.removeListener(n):t.removeEventListener(`change`,n)}},[e]),t};export{r as t};
+//# sourceMappingURL=useMediaQuery-DbdabnSQ.js.map

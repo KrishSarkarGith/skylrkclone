@@ -1,0 +1,2 @@
+import{t as e}from"./chunk-0qwtQa0g.js";import{t}from"./react-dom-DR-3mrT9.js";var n=e((e=>{var n=t();e.createRoot=n.createRoot,e.hydrateRoot=n.hydrateRoot}));export{n as t};
+//# sourceMappingURL=client-DjCL41fq.js.map

@@ -1,0 +1,2 @@
+import{a as e}from"./chunk-0qwtQa0g.js";import{t}from"./react-1uJi8W1k.js";var n=e(t(),1),r=(0,n.createContext)(null);function i(){let e=(0,n.useContext)(r);if(!e)throw Error(`useGlobalTranslations must be used within a GlobalTranslationsProvider`);return e.i18n}export{i as n,r as t};
+//# sourceMappingURL=GlobalTranslations-CSkbJqmT.js.map

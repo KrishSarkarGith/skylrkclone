@@ -1,0 +1,2 @@
+import{a as e}from"./chunk-0qwtQa0g.js";import{t}from"./react-1uJi8W1k.js";var n=e(t(),1),r=e=>{let{pricingSite:t,pricing:n,geoPricingIsEnabled:r=!1}=e||{};return{pricingSite:t,pricing:n,geoPricingIsEnabled:r}},i=(0,n.createContext)({});function a(){return(0,n.useContext)(i)}export{r as n,a as r,i as t};
+//# sourceMappingURL=PricingData-B9s2czf7.js.map

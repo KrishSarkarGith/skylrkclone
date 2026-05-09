@@ -1,0 +1,2 @@
+import{t as e}from"./screens-8rWtzHQE.js";var t={mode:`light`,placeholder:`highlight`},n=(e,n,r,i=t)=>{let a={...t,...i};return e(`${n}.${r}`,{[a.placeholder]:`<span class="${a.mode===`light`?`text-highlight-light`:`text-highlight-dark`}">${e(`${n}.${a.placeholder}`)}</span>`})};function r(e){let t={min:{},max:{}};for(let n in e){let r=n,i=parseInt(e[r],10);t.min[r]=`(min-width: ${i}px)`,t.max[r]=`(max-width: ${i-1}px)`}return t}var i=r(e);export{i as n,n as t};
+//# sourceMappingURL=utils-DN5faNNO.js.map

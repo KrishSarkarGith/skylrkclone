@@ -1,0 +1,2 @@
+import{t as e}from"./jsx-runtime-ChVxNLAL.js";var t=e();function n(e){return(0,t.jsx)(`svg`,{fill:`none`,viewBox:`0 0 20 20`,"aria-hidden":`true`,...e,children:(0,t.jsx)(`path`,{stroke:`currentColor`,strokeLinecap:`round`,d:`M6.5 3.5v13M13.5 3.5v13`})})}export{n as t};
+//# sourceMappingURL=Pause-CfAmS9HD.js.map

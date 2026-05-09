@@ -1,0 +1,2 @@
+import{r as e}from"./enums-BEj9eZxU.js";import{t}from"./jsx-runtime-ChVxNLAL.js";import{t as n}from"./Button-J2ewokZa.js";var r=t();function i({mode:t,text:i}){return(0,r.jsx)(`div`,{className:`absolute top-2 left-2 z-[100] pointer-events-none`,children:(0,r.jsx)(n,{href:`#main`,size:e.Small,intent:`primary`,mode:t,className:`transition-transform duration-300 translate-y-[-200%] motion-reduce:transition-none focus:translate-y-0`,children:i})})}export{i as t};
+//# sourceMappingURL=SkipLink-5KOci0ig.js.map

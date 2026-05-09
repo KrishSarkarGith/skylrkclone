@@ -1,0 +1,2 @@
+import{t as e}from"./jsx-runtime-ChVxNLAL.js";var t=e();function n({children:e,className:n,isActive:r=!1,hasAnimation:i=!1,tag:a=`div`,toggleId:o,...s}){let c=a,l=i?{}:{style:{display:r?`block`:`none`}};return(0,t.jsx)(c,{"aria-hidden":!r,className:n,id:o,...s,...l,children:e})}export{n as t};
+//# sourceMappingURL=Toggle-DcZLdYsy.js.map

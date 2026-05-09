@@ -1,0 +1,2 @@
+function e(e){let t=e.match(RegExp(`[A-Z]{2,}(?=[A-Z][a-z]+[0-9]*|\\b)|[A-Z]?[a-z]+[0-9]*|[A-Z]|[0-9]+|[぀-ヿ㐀-䶿一-鿿豈-﫿ｦ-ﾟ]+`,`gu`));return t?t.map(e=>e.toLowerCase()).join(`-`):``}export{e as t};
+//# sourceMappingURL=kebab-DP2aU6_c.js.map
